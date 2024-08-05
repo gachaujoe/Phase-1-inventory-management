@@ -1,0 +1,10 @@
+{
+    "products": [
+      { "id": 1, "name": "Laptop", "category": "Electronics", "price": 999.99, "image": "https://media.gettyimages.com/id/1448142274/photo/mock-up-of-laptop.jpg?s=2048x2048&w=gi&k=20&c=A85i8h6ZJm06GNxKqwP39xZ2t6Pi3K1tt8UPA04NQys=" },
+      { "id": 2, "name": "Coffee Maker", "category": "Home Appliances", "price": 49.99, "image": "https://media.gettyimages.com/id/183419534/photo/coffee-maker-with-clipping-path.jpg?s=2048x2048&w=gi&k=20&c=v1V7UQa5zLfEqM9L-om8At80hVDvYttB_xDZBwxuN-c=" },
+      { "id": 3, "name": "Smartphone", "category": "Electronics", "price": 699.99, "image": "https://media.gettyimages.com/id/1295658117/photo/anonymous-woman-using-her-mobile-phone-at-home.jpg?s=2048x2048&w=gi&k=20&c=b1eiJQDjoEOfHiLmVCvu0-Rpl5sdNjrhzDV9vN2o5d4=" },
+      { "id": 4, "name": "Desk Chair", "category": "Furniture", "price": 89.99, "image": "https://media.gettyimages.com/id/118198399/photo/office-chair.jpg?s=2048x2048&w=gi&k=20&c=xKCvVzSm8kVrY9SmFa1g2xVhDlAIkDD-2mzKdU_h0NY=" },
+      { "id": 5, "name": "Headphones", "category": "Electronics", "price": 149.99, "image": "https://media.gettyimages.com/id/1457162334/photo/black-wireless-headphones-on-a-white-background-overhead-isolated-professional-grade.jpg?s=2048x2048&w=gi&k=20&c=b931unrexB2q1hTknWZx2he7ex51rN1J0IPAfd3K2Ok=" }
+    ]
+  }
+  
